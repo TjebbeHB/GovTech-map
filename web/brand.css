@@ -1,0 +1,30 @@
+/* DigiCampus official website, observed 2026-09-25. See docs/BRAND-ASSETS.md. */
+@font-face{font-family:'DM Sans';src:url('/fonts/dm-sans-400.woff2') format('woff2');font-weight:400 700;font-display:swap}
+@font-face{font-family:Inter;src:url('/fonts/inter-500.woff2') format('woff2');font-weight:500 600;font-display:swap}
+@font-face{font-family:Lexend;src:url('/fonts/lexend-600.woff2') format('woff2');font-weight:600 700;font-display:swap}
+:root{--ink:#2a235c;--muted:#526075;--purple:#2a235c;--teal:#007a72;--paper:#f8fafc;--line:#dce4eb;--lilac:#f0f2f8;--font:'DM Sans',Arial,sans-serif;--body:'DM Sans',Arial,sans-serif;--heading:Lexend,Arial,sans-serif}
+body{font-family:var(--body);color:#131a25}
+h1,h2,h3{font-family:var(--heading);font-weight:600;color:var(--ink)}
+button,input,select,textarea{font-family:inherit}
+.primary,.outline,.map-navigation,.discovery-navigation,.text-button,.tabs button,.header nav{font-family:Inter,Arial,sans-serif;font-weight:500}
+.primary{background:var(--teal);color:white;font-weight:600;border-radius:8px}
+.outline,.map-navigation,.discovery-navigation,.tabs button{border-radius:8px}
+.header,.masthead{background:var(--paper)}
+.brand{flex-shrink:0;letter-spacing:normal}
+.digicampus-logo{display:block;width:220px;height:auto}
+.brand small{font-family:var(--body);color:var(--ink);letter-spacing:1.4px}
+.atlas-product{font-family:var(--body);color:var(--ink)}
+.hero{background:#eef5f5;border-color:var(--line)}
+.hero h1{letter-spacing:-1.7px}
+.hero .intro{color:#475569}
+.hero-art .orbit{border-color:#a9ceca}
+.hero-art .art-node{color:var(--ink)}
+.hero-art .art-node.n3{color:white;background:var(--teal)}
+.card-description{color:#526075}
+.card-title{font-family:inherit}
+footer{flex-wrap:wrap}
+footer .digicampus-logo{width:180px}
+.authorship{font-size:12px;line-height:1.6;color:var(--muted);font-family:var(--body);font-weight:400}
+footer .authorship{flex-basis:100%;max-width:none;margin:0}
+#about-dialog .authorship{font-size:12px;line-height:1.6;padding:14px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin:18px 0}
+@media(max-width:760px){.header .digicampus-logo{width:140px}.header .brand small{font-size:8px;letter-spacing:.6px}.header{padding:14px 16px;gap:8px}.header nav{gap:7px}.hero h1{letter-spacing:-1px}.masthead .digicampus-logo{width:150px}.masthead{gap:12px}.masthead .header-actions{gap:6px}footer .authorship{font-size:11px}}

@@ -1,0 +1,3 @@
+AddType application/javascript .mjs
+AddType application/manifest+json .webmanifest
+AddType application/geo+json .geojson

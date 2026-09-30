@@ -1,0 +1,352 @@
+﻿id,naam,type,stad,land,provincie,themas,status,kvk,latitude,longitude,locatienauwkeurigheid,bronnen
+acato,Acato,company,Den Haag,NL,Zuid-Holland,Open source; Toegankelijkheid; Digitale overheid,researched,,52.07207291,4.29300083,city,nl-acato; nl-acato-denhaag
+ademe-accelerateur,Accélérateur de la Transition Écologique (ADEME),hub,Montrouge,FR,,Digitale overheid; Innovatie; Community,researched,,48.8162,2.31393,city,fg2-ademe-incubator; fg2-beta-bilan
+cerema-accelerema,Accélérema (Cerema),hub,Bron,FR,,Digitale overheid; Innovatie; Community,researched,,45.73865,4.91303,city,fg2-cerema-incubator; fg2-beta-bilan; fg2-cerema-address
+adullact,ADULLACT,hub,Montpellier,FR,,Digitale overheid; Open source; Community,researched,,43.61093,3.87635,city,fg2-adullact-convention; fg2-adullact-scale; fg2-adullact-address
+gts-596,Advantis Medical Imaging,company,Niet vastgesteld,,,Zorg; Cloud Computing,catalogue,,,,,eu-companies
+ai-sweden,AI Sweden,hub,Göteborg,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,57.70716,11.96679,city,gs2-ai-sweden; gs2-svea; gs2-ai-contact
+ai4pa-pt,AI4PA Portugal EDIH,hub,Landelijk netwerk,PT,,Digitale overheid; Innovatie,researched,,,,,ib2-ai4pa; ib2-ai4pa-training
+gt-188,AIC4NL,support,Niet vastgesteld,,,Innovatie,catalogue,,,,,eu-initiatives
+gts-603,Aidence,company,Niet vastgesteld,,,Zorg; Artificial Intelligence,catalogue,,,,,eu-companies
+airon,Airon / AI Iron AB,company,Stad niet vastgesteld,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,,,,gs2-svea; gs2-airon-site; gs2-airon-identity
+aleph-alpha,Aleph Alpha,company,Heidelberg,DE,,Digitale overheid; AI,researched,,49.40768,8.69079,city,fg2-f13; fg2-govtech-members; fg2-aleph-address; fg2-f13-update-2025
+gts-694,Algoritmica,company,Niet vastgesteld,,,Energie & leefomgeving; Artificial Intelligence,catalogue,,,,,eu-companies
+alingsas-kommun,Alingsås kommun,government,Alingsås,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,57.93033,12.53345,city,gs2-sustaingov-lockin; gs2-svea; gs2-alingsas-contact; gs2-skovde-lockin
+alliance-dinum,ALLiaNCE – incubateur IA de l’État,hub,Parijs,FR,,Digitale overheid; Innovatie; Community,researched,,48.85341,2.3488,city,fg2-alliance
+amal,AMAL – Comunidade Intermunicipal do Algarve,government,Faro,PT,,Digitale overheid; Innovatie,researched,,37.01869,'-7.92716,city,ib2-rr2
+amazon-cs-the-hague,Amazon CS Netherlands B.V.,bigtech,Den Haag,NL,Zuid-Holland,Cloud; Big Tech,register,77956311,52.06752891,4.32317126,postcode,kvk-2025
+amazon-data-services-the-hague,Amazon Data Services Netherlands N.V.,bigtech,Den Haag,NL,Zuid-Holland,Cloud; Big Tech,register,61925926,52.06752891,4.32317126,postcode,kvk-2025
+amazon-development-center-the-hague,Amazon Development Center (Netherlands) B.V.,bigtech,Den Haag,NL,Zuid-Holland,Cloud; Big Tech,register,56869649,52.06752891,4.32317126,postcode,kvk-2025
+amtega,AMTEGA – Axencia para a Modernización Tecnolóxica de Galicia,government,Santiago de Compostela,ES,,Digitale overheid; Innovatie,researched,,42.88052,'-8.54569,city,ib2-amtega-current; ib2-pilot
+anepc,ANEPC,government,Carnaxide,PT,,Digitale overheid; Innovatie,researched,,38.72706,'-9.24671,city,ib2-rr2
+appsignal,AppSignal,company,Den Haag,NL,Zuid-Holland,Software; Monitoring,researched,,52.06994473,4.32470913,hub,tht-appsignal
+gts-408,Argu,company,Niet vastgesteld,,,Participatie; Other,catalogue,,,,,eu-companies
+aric-hamburg,ARIC Hamburg,hub,Hamburg,DE,,Digitale overheid; AI; Community,researched,,53.55073,9.99302,city,fg2-aric-hamburg; fg2-aric-address
+arte-pt,ARTE – Agência para a Reforma Tecnológica do Estado,government,Lissabon,PT,,Digitale overheid; Innovatie,researched,,38.72509,'-9.1498,city,ib2-arte; ib2-ai4pa
+atabix,Atabix,company,Amsterdam,NL,Noord-Holland,Digitale overheid; Zaakgericht werken,researched,,52.37344272,4.90454379,city,atabix-about
+athena-research,Athena Research Center,knowledge,Marousi,GR,,Digitale overheid; Innovatie; Europese samenwerking,researched,,38.05,23.8,city,gs2-grnet-hub; gs2-gr-digigov-ec; gs2-smartattica-ec
+ayuntamiento-madrid,Ayuntamiento de Madrid – Oficina Digital,government,Madrid,ES,,Digitale overheid; Innovatie,researched,,40.4165,'-3.70256,city,ib2-pilot
+bct,BCT,company,Sittard,NL,Limburg,Software; Informatiebeheer; Archivering,researched,,51.00040578,5.86972884,city,nl-bct-address; nl-bct-history
+gts-594,Be Sure Healthcare,company,Niet vastgesteld,,,Zorg; Artificial Intelligence,catalogue,,,,,eu-companies
+bechtle,Bechtle AG,company,Neckarsulm,DE,,Digitale overheid; Cloud; AI,researched,,49.18912,9.22527,city,fg2-bechtle-award; fg2-govtech-members; fg2-bechtle-address
+beta-i,Beta-i,support,Lissabon,PT,,Community; Innovatie; Europese samenwerking,researched,,38.72509,'-9.1498,city,eur-digi-beta; eur-beta-services; eur-beta-address
+beta-gouv,beta.gouv.fr,hub,Parijs,FR,,Digitale overheid; Innovatie; Community,researched,,48.85341,2.3488,city,fg2-beta-bilan; fg2-beta-host
+bind-govtech,BIND GovTech,hub,Bilbao,ES,,Digitale overheid; Innovatie,researched,,43.26271,'-2.92528,city,ib2-bind; ib2-bind-faq
+bluegen,BlueGen.ai,company,Den Haag,NL,Zuid-Holland,AI; Privacy; Synthetische data,researched,87618109,52.06994473,4.32470913,hub,bluegen; tht-move
+bluehats-fr,BlueHats France,hub,Landelijk netwerk,FR,,Digitale overheid; Open source; Community,researched,,,,,fg2-bluehats
+report-brainport-eindhoven,Brainport Eindhoven,hub,Eindhoven,NL,Noord-Brabant,Innovatie,historical,,51.45016172,5.45853544,city,public-2021
+report-brightlands-campus-greenport-venlo,Brightlands Campus Greenport Venlo,hub,Venlo,NL,Limburg,Innovatie,historical,,51.37905246,6.1488133,city,public-2021
+report-brightlands-chemelot-campus,Brightlands Chemelot Campus,hub,Geleen,NL,Limburg,Innovatie,historical,,50.97826344,5.81094123,city,public-2021
+report-brightlands-maastricht-health-campus,Brightlands Maastricht Health Campus,hub,Maastricht,NL,Limburg,Innovatie,historical,,50.85296715,5.6995303,city,public-2021
+report-brightlands-smart-services-campus,Brightlands Smart Services Campus,hub,Heerlen,NL,Limburg,Innovatie,historical,,50.88800888,5.97859513,city,public-2021
+bron-govtech-sweden,Bron Innovation / GovTech Sweden,hub,Sundsvall,SE,,Community; Digitale overheid; Innovatie,researched,,62.39129,17.3063,city,eur-bron-role; eur-govtech4all
+gts-595,Cass,company,Niet vastgesteld,,,Zorg; Artificial Intelligence,catalogue,,,,,eu-companies
+cjib,Centraal Justitieel Incassobureau (CJIB),government,Nederland,NL,,Digitale overheid,researched,,,,,quintor-clients
+centric,Centric,company,Gouda,NL,Zuid-Holland,Software; Digitale overheid; Gemeenten,researched,,52.01530151,4.70620369,city,nl-centric-address; nl-centric-products; nl-centric-hengelo
+cgi-nederland,CGI Nederland,company,Rotterdam,NL,Zuid-Holland,Digitale overheid; Cybersecurity; Cloud,researched,33136004,51.92248806,4.48653571,city,cgi-government; cgi-clients
+gts-686,Circular IQ,company,Niet vastgesteld,,,Energie & leefomgeving; Other,catalogue,,,,,eu-companies
+gts-1074,Circularise,company,Niet vastgesteld,,,Energie & leefomgeving,catalogue,,,,,eu-companies
+citylab-berlin,CityLAB Berlin,hub,Berlijn,DE,,Digitale overheid; Innovatie; Community,researched,,52.52437,13.41053,city,fg2-citylab; fg2-citylab-itdz
+codesphere,Codesphere,company,Den Haag,NL,Zuid-Holland,Cloud; Software; On-premise,researched,,52.06994473,4.32470913,hub,tht-codesphere
+conduction,Conduction,company,Amsterdam,NL,Noord-Holland,Digitale overheid; Open source,researched,76741850,52.37344272,4.90454379,city,conduction-about; conduction-partners
+gts-1151,CoTown,company,Niet vastgesteld,,,Digitale overheid; Cloud Computing,catalogue,,,,,eu-companies
+gts-656,COVADEM,company,Niet vastgesteld,,,Energie & leefomgeving; Other; IoT,catalogue,,,,,eu-companies
+ctti,CTTI – Centre de Telecomunicacions i Tecnologies de la Informació,government,Landelijk / digitaal netwerk,ES,,Digitale overheid; Innovatie,researched,,,,,ib2-catalunya
+gts-489,Data Crunch,company,Rotterdam,NL,Zuid-Holland,Economie; Artificial Intelligence,catalogue,77090314,51.92486792,4.51995408,postcode,eu-companies; kvk-2025
+decos,Decos,company,Noordwijk,NL,Zuid-Holland,Software; Zaakgericht werken; Open standaarden,researched,,52.27100002,4.462659,city,nl-decos-address; nl-decos-products; nl-decos-amsterdam; nl-decos-province-pdok; nl-decos-privacy-address
+delta10,Delta10,company,Utrecht,NL,Utrecht,Digitale overheid; Open source,researched,75244136,52.0886922,5.09520363,city,delta10-contact; delta10-ede; delta10-leiden
+gts-1034,Dembrane,company,Eindhoven,NL,Noord-Brabant,Digitale overheid,catalogue,,51.45016172,5.45853544,city,eu-companies
+duo,Dienst Uitvoering Onderwijs (DUO),government,Nederland,NL,,Digitale overheid,researched,,,,,quintor-clients
+digg,Digg – Myndigheten för digital förvaltning,government,Sundsvall,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,62.39129,17.3063,city,gs2-sustaingov-about; gs2-esam-about; gs2-digg-contact; gs2-sustaingov-partners-current
+digicampus,Digicampus,knowledge,Den Haag,NL,Zuid-Holland,Digitale overheid; Innovatie,researched,,52.06994473,4.32470913,address,digi-partners; onegov; eu-initiatives
+digidentity,Digidentity,company,Den Haag,NL,Zuid-Holland,Identiteit; eHerkenning; Digitale overheid,researched,27322631,52.07207291,4.29300083,city,nl-digidentity-address; nl-eherkenning; digidentity-government; digidentity-address
+digitalservice-bund,DigitalService des Bundes,government,Berlijn,DE,,Digitale overheid; Innovatie; Community,researched,,52.52437,13.41053,city,fg2-govimpact; fg2-digitalservice-address
+digitalwell-arena,DigitalWell Arena,hub,Karlstad,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,59.3793,13.50357,city,gs2-digitalwell-about; gs2-compare-contact
+dimpact,Dimpact,government,Enschede,NL,Overijssel,Common Ground; Open source; Gemeenten,researched,,52.22080698,6.8777881,city,nl-dimpact-address; nl-maykin-vng; nl-wigo-dimpact
+dinum,DINUM,government,Parijs,FR,,Digitale overheid; Rules as Code; Open source,researched,,48.85341,2.3488,city,eur-digi-pra; eur-dinum-address
+report-dockwize,Dockwize,hub,Vlissingen,NL,Zeeland,Innovatie,historical,,51.4707676,3.44327971,city,public-2021
+gts-607,Doctor Kinetic,company,Niet vastgesteld,,,Zorg; Cloud Computing,catalogue,,,,,eu-companies
+declic-fr,Déclic – réseau des OPSN,hub,Auch,FR,,Digitale overheid; Open source; Community,researched,,43.64561,0.58856,city,fg2-declic-role; fg2-declic-adullact; fg2-declic-address
+gts-387,Easygenerator,company,Rotterdam,NL,Zuid-Holland,Onderwijs; Artificial Intelligence,catalogue,67709826,51.91642577,4.47576582,postcode,eu-companies; kvk-2025
+gts-460,ECLECTICIQ,company,Niet vastgesteld,,,Digitale overheid; Artificial Intelligence,catalogue,,,,,eu-companies
+gts-398,Edumundo,company,Niet vastgesteld,,,Onderwijs; Other,catalogue,,,,,eu-companies
+eett,EETT,government,Marousi,GR,,Digitale overheid; Innovatie; Europese samenwerking,researched,,38.05,23.8,city,gs2-grnet-hub; gs2-gr-digigov-ec
+ekdda,EKDDA,knowledge,Athene,GR,,Digitale overheid; Innovatie; Europese samenwerking,researched,,37.98376,23.72784,city,gs2-grnet-hub; gs2-gr-digigov-ec
+enable-u,Enable U,company,Amsterdam,NL,Noord-Holland,Data; Interoperabiliteit; Software,researched,34228397,52.37344272,4.90454379,city,nl-enable-u-address; nl-enable-u-cases
+gts-698,Energie365,company,Niet vastgesteld,,,Energie & leefomgeving; IoT; Artificial Intelligence,catalogue,,,,,eu-companies
+gts-690,Energyworx,company,Niet vastgesteld,,,Energie & leefomgeving; Cloud Computing; Other,catalogue,,,,,eu-companies
+esam,eSamverkansprogrammet (eSam),hub,Stockholm,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,59.32938,18.06871,city,gs2-esam-about; gs2-esam-contact
+esri-nederland,Esri Nederland,company,Rotterdam,NL,Zuid-Holland,GIS; Data; Leefomgeving,researched,24372523,51.92248806,4.48653571,city,esri-geoweb-bernheze
+gts-650,Eteck,company,Voorburg,NL,Zuid-Holland,Energie & leefomgeving; Other,catalogue,24410066,52.06645293,4.35850601,postcode,eu-companies; kvk-2025
+gt-146,European Center for Not-for-Profit Law (ECNL),support,Niet vastgesteld,,,Innovatie,catalogue,,,,,eu-initiatives
+ign-fabrique,Fabrique de la donnée territoriale (IGN),hub,Saint-Mandé,FR,,Digitale overheid; Innovatie; Community,researched,,48.83864,2.41579,city,fg2-ign-incubator; fg2-beta-bilan
+mte-fabrique,Fabrique Numérique de l’Écologie,hub,Puteaux,FR,,Digitale overheid; Innovatie; Community,researched,,48.88341,2.23894,city,fg2-mte-incubator; fg2-beta-bilan
+gts-598,Fitmo,company,Niet vastgesteld,,,Zorg; Cloud Computing,catalogue,,,,,eu-companies
+fledger,Fledger,company,Den Haag,NL,Zuid-Holland,Data; Software,researched,81065213,52.06994473,4.32470913,hub,tht-move; kvk-2025
+foundation-gr,Found.ation,support,Athene,GR,,Digitale overheid; Innovatie; Europese samenwerking,researched,,37.98376,23.72784,city,gs2-smartattica-ec
+fox-it,Fox-IT,company,Delft,NL,Zuid-Holland,Cybersecurity; Forensics; Cryptography,researched,27301624,51.99845672,4.36310563,city,fox-public
+gts-700,Fritts,company,Niet vastgesteld,,,Energie & leefomgeving; Other,catalogue,,,,,eu-companies
+bit-habitat,Fundació BIT Habitat,hub,Barcelona,ES,,Digitale overheid; Innovatie,researched,,41.38879,2.15899,city,ib2-bit
+madrimasd,Fundación para el Conocimiento madri+d,support,Madrid,ES,,Digitale overheid; Innovatie,researched,,40.4165,'-3.70256,city,ib2-gobe-madrid; ib2-madridlab
+sambruk,Föreningen Sambruk,hub,Stockholm,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,59.32938,18.06871,city,gs2-sambruk-site; gs2-sustaingov-lockin; gs2-skovde-lockin
+gemeente-almere,Gemeente Almere,government,Nederland,NL,,Digitale overheid,researched,,,,,nl-visma-circle
+gemeente-amsterdam,Gemeente Amsterdam,government,Nederland,NL,,Digitale overheid,researched,,,,,nl-decos-amsterdam
+gemeente-bernheze,Gemeente Bernheze,government,Bernheze,NL,,Digitale overheid,researched,,,,,esri-geoweb-bernheze
+denhaag,Gemeente Den Haag,government,Den Haag,NL,Zuid-Holland,Digitale overheid; Publieke ruimte,researched,,52.0775912,4.31663955,address,onegov; city-address
+gemeente-ede,Gemeente Ede,government,Ede,NL,Gelderland,Digitale overheid,researched,,52.04603756,5.68489658,city,delta10-ede
+gemeente-heemskerk,Gemeente Heemskerk,government,Nederland,NL,,Digitale overheid,researched,,,,,nl-shift2
+gemeente-hengelo,Gemeente Hengelo,government,Hengelo,NL,Overijssel,Digitale overheid; Data,researched,,52.25490615,6.77819416,city,nl-hengelo-address; nl-centric-hengelo
+gemeente-hoorn,Gemeente Hoorn,government,Hoorn,NL,Noord-Holland,Democratie; Openbaarheid,researched,,52.62273205,5.07168928,city,nl-hoorn-address; nl-ibabs-hoorn
+gemeente-lansingerland,Gemeente Lansingerland,government,Nederland,NL,,Digitale overheid,researched,,,,,nl-xxllnc-lansingerland
+gemeente-leeuwarden,Gemeente Leeuwarden,government,Leeuwarden,NL,,Digitale overheid,researched,,,,,sogeti-leeuwarden
+gemeente-leiden,Gemeente Leiden,government,Leiden,NL,Zuid-Holland,Digitale overheid,researched,,52.15498245,4.48511551,city,delta10-leiden
+gemeente-midden-groningen,Gemeente Midden-Groningen,government,Nederland,NL,,Digitale overheid,researched,,,,,nl-notubiz
+gemeente-rotterdam,Gemeente Rotterdam,government,Rotterdam,NL,,Digitale overheid,researched,,,,,digidentity-government; mendix-government
+gemeente-westland,Gemeente Westland,government,Nederland,NL,,Digitale overheid,researched,,,,,nl-opengemeenten-cases
+gts-490,Geronimo AI,company,Niet vastgesteld,,,Digitale overheid; Artificial Intelligence,catalogue,,,,,eu-companies; public-2021
+gts-492,GetFocus,company,Niet vastgesteld,,,Digitale overheid; Other,catalogue,,,,,eu-companies
+gobe,Gobe,support,Madrid,ES,,Digitale overheid; Innovatie,researched,,40.4165,'-3.70256,city,ib2-gobe; ib2-pilot; ib2-gobe-bizkaia
+govdigital,govdigital eG,hub,Berlijn,DE,,Digitale overheid; Cloud; Community,researched,,52.52437,13.41053,city,fg2-govdigital; fg2-govdigital-address
+govtech-catalunya,GovTech Catalunya,hub,Barcelona,ES,,Digitale overheid; Innovatie,researched,,41.38879,2.15899,city,ib2-catalunya
+govtech-campus-de,GovTech Deutschland / GovTech Campus,hub,Berlijn,DE,,Community; Digitale overheid; Europese samenwerking,researched,,52.52437,13.41053,city,eur-campus-site; eur-campus-address; eur-govtech4all
+govtech-bizkaia,GovTech Lab Bizkaia,hub,Bilbao,ES,,Digitale overheid; Innovatie,researched,,43.26271,'-2.92528,city,ib2-bizkaia; ib2-gobe-bizkaia
+govtech4all,GovTech4All,hub,Europees netwerk,,,Community; Digitale overheid; Europese samenwerking,researched,,,,,eur-govtech4all
+govtechh,GovTecHH,hub,Hamburg,DE,,Digitale overheid; Innovatie; Community,researched,,53.55073,9.99302,city,fg2-govtechh; fg2-govtechh-summ
+govtechlab-madrid,Govtechlab Madrid,hub,Madrid,ES,,Digitale overheid; Innovatie,researched,,40.4165,'-3.70256,city,ib2-madridlab; ib2-gobe-madrid
+govtechnl,GovTechNL,hub,Den Haag,NL,Zuid-Holland,Digitale overheid; Community,researched,,52.06994473,4.32470913,hub,govtechnl; digi-gov; onegov; eu-initiatives
+gr-digigov-innohub,GR digiGOV-innoHUB,hub,Athene,GR,,Digitale overheid; Innovatie; Europese samenwerking,researched,,37.98376,23.72784,city,gs2-grnet-hub; gs2-gr-digigov-site; gs2-gr-digigov-ec; gs2-digigov-july2026
+gts-701,Greeniant,company,Niet vastgesteld,,,Energie & leefomgeving; Artificial Intelligence; Other,catalogue,,,,,eu-companies
+grnet,GRNET,knowledge,Athene,GR,,Digitale overheid; Rules as Code; Europese samenwerking,researched,,37.98376,23.72784,city,eur-digi-pra; eur-grnet-address
+report-hague-humanity-hub,Hague Humanity Hub,hub,Den Haag,NL,Zuid-Holland,Innovatie,historical,,52.07207291,4.29300083,city,public-2021
+report-hague-security-delta,Hague Security Delta,hub,Den Haag,NL,Zuid-Holland,Innovatie,historical,,52.07207291,4.29300083,city,public-2021
+hazlab,HazLab,hub,Landelijk / digitaal netwerk,ES,,Digitale overheid; Innovatie,researched,,,,,ib2-hazlab; ib2-inap-tsi; ib2-hazlab2025
+report-health-valley,Health Valley,hub,Nijmegen,NL,Gelderland,Innovatie,historical,,51.83481969,5.83320521,city,public-2021
+gts-606,Healthplus.ai B.V.,company,Niet vastgesteld,,,Zorg; Other,catalogue,,,,,eu-companies
+gts-697,Hero Balancer,company,Niet vastgesteld,,,Energie & leefomgeving; IoT; Artificial Intelligence,catalogue,,,,,eu-companies
+gts-657,Hiber,company,Niet vastgesteld,,,Energie & leefomgeving; IoT,catalogue,,,,,eu-companies
+report-high-tech-campus-eindhoven,High Tech Campus Eindhoven,hub,Eindhoven,NL,Noord-Brabant,Innovatie,historical,,51.45016172,5.45853544,city,public-2021
+hpm,Holland Park Media,company,Den Haag,NL,Zuid-Holland,Media; Evenementen,researched,,52.06994473,4.32470913,hub,tht-prospero; tht-party
+gts-1049,Humankind,company,Rotterdam,NL,Zuid-Holland,Digitale overheid,catalogue,91422973,51.92099312,4.47764502,postcode,eu-companies; kvk-2025
+university-skovde,Högskolan i Skövde / University of Skövde,knowledge,Skövde,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,58.39118,13.84506,city,gs2-sustaingov-lockin; gs2-skovde-contact; gs2-skovde-lockin
+i2cat,i2CAT Research Centre,knowledge,Barcelona,ES,,Digitale overheid; Innovatie,researched,,41.38879,2.15899,city,ib2-i2cat; ib2-catalunya
+ibabs,iBabs,company,Hoorn,NL,Noord-Holland,Software; Democratie; Openbaarheid,researched,,52.62273205,5.07168928,city,nl-ibabs-address; nl-ibabs-hoorn; nl-ibabs-province-pdok
+ictu,ICTU,government,Den Haag,NL,Zuid-Holland,Software; Digitale overheid,researched,27198742,52.07928009,4.34161534,postcode,digi-partners; kvk-2025
+inap-lip,INAP / Laboratorio de Innovación Pública,knowledge,Madrid,ES,,Innovatie; Burgerparticipatie; Europese samenwerking,researched,,40.4165,'-3.70256,city,eur-digi-tsi; eur-inap-address
+france-travail-incubateur,Incubateur de France Travail,hub,Parijs,FR,,Digitale overheid; Innovatie; Community,researched,,48.85341,2.3488,city,fg2-francetravail-incubator; fg2-beta-bilan
+anct-incubateur,Incubateur des Territoires (ANCT),hub,Parijs,FR,,Digitale overheid; Innovatie; Community,researched,,48.85341,2.3488,city,fg2-anct-incubator; fg2-beta-bilan
+inera,Inera AB,government,Stockholm,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,59.32938,18.06871,city,gs2-svea; gs2-inera-contact; gs2-inera-about
+information-society-gr,Information Society S.A. (Greece),government,Kallithea,GR,,Digitale overheid; Innovatie; Europese samenwerking,researched,,37.95,23.7,city,gs2-grnet-hub; gs2-gr-digigov-ec
+gts-401,Infowijs,company,Niet vastgesteld,,,Onderwijs; Other,catalogue,,,,,eu-companies
+innolab-bw,InnoLab_bw,hub,Stuttgart,DE,,Digitale overheid; Innovatie; Community,researched,,48.78232,9.17702,city,fg2-innolab; fg2-f13; fg2-f13-update-2025
+inria,Inria,knowledge,Le Chesnay-Rocquencourt,FR,,Digitale overheid; Innovatie; Community,researched,,48.83783,2.10228,city,fg2-inria-training; fg2-inria-address
+iccs-gr,Institute of Communication and Computer Systems (ICCS),knowledge,Athene,GR,,Digitale overheid; Innovatie; Europese samenwerking,researched,,37.98376,23.72784,city,gs2-grnet-hub; gs2-gr-digigov-ec; gs2-smartattica-ec
+iscte,Iscte – Instituto Universitário de Lisboa,knowledge,Lissabon,PT,,Digitale overheid; Innovatie,researched,,38.72509,'-9.1498,city,ib2-ai4pa; ib2-ai4pa-training
+bitbw,IT Baden-Württemberg (BITBW),government,Stuttgart,DE,,Digitale overheid; Cloud; AI,researched,,48.78232,9.17702,city,fg2-f13-update-2025; fg2-bitbw-address
+itdz-berlin,ITDZ Berlin,government,Berlijn,DE,,Digitale overheid; Open source,researched,,52.52437,13.41053,city,fg2-citylab-itdz; fg2-itdz-address
+gts-693,Jedlix,company,Rotterdam,NL,Zuid-Holland,Energie & leefomgeving; Artificial Intelligence; IoT,catalogue,,51.92248806,4.48653571,city,eu-companies
+kpn,KPN,company,Rotterdam,NL,Zuid-Holland,Identiteit; eHerkenning; Connectiviteit,researched,,51.92248806,4.48653571,city,nl-kpn-address; nl-eherkenning
+laaab,LAAAB – Laboratorio de Aragón Gobierno Abierto,hub,Zaragoza,ES,,Digitale overheid; Innovatie,researched,,41.65606,'-0.87734,city,ib2-laaab; ib2-hazlab-design
+labx,LabX – ARTE,hub,Lissabon,PT,,Community; Burgerparticipatie; Innovatie,researched,,38.72509,'-9.1498,city,eur-labx-role; eur-digi-tsi; eur-arte-address
+lantik,Lantik – Government of Biscay,government,Bilbao,ES,,Digitale overheid; Innovatie; Europese samenwerking,researched,,43.26271,'-2.92528,city,eur-lantik-role; eur-govtech4all
+gts-388,LessonUp,company,Den Haag,NL,Zuid-Holland,Onderwijs; Artificial Intelligence,catalogue,64760006,52.06620902,4.34549728,postcode,eu-companies; kvk-2025
+lindholmen-science-park,Lindholmen Science Park,hub,Göteborg,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,57.70716,11.96679,city,gs2-ai-sweden; gs2-lindholmen-contact
+logius,Logius,government,Den Haag,NL,Zuid-Holland,Digitale overheid; Identiteit,researched,,52.07846659,4.34015737,address,digi-partners; logius-address; visma-logius
+gt-190,LUMO labs,support,Eindhoven,NL,Noord-Brabant,Innovatie,catalogue,,51.45016172,5.45853544,city,eu-initiatives
+gts-554,Luscii,company,Niet vastgesteld,,,Zorg; Cloud Computing; Other,catalogue,,,,,eu-companies
+maykin,Maykin,company,Amsterdam,NL,Noord-Holland,Open source; Software; Common Ground,researched,64214648,52.37344272,4.90454379,city,nl-maykin; nl-maykin-dimpact; nl-maykin-vng
+gts-600,MedApp,company,Niet vastgesteld,,,Zorg; Cloud Computing,catalogue,,,,,eu-companies
+gts-557,Medeye,company,Niet vastgesteld,,,Zorg; Artificial Intelligence,catalogue,,,,,eu-companies
+gts-601,Medvice Digital Health,company,Niet vastgesteld,,,Zorg; Artificial Intelligence,catalogue,,,,,eu-companies
+mendix,Mendix Technology,company,Rotterdam,NL,Zuid-Holland,Low-code; Software; Digitale overheid,researched,24380476,51.92248806,4.48653571,city,mendix-government
+ministerie-buza,Ministerie van Buitenlandse Zaken,government,Nederland,NL,,Digitale overheid,researched,,,,,netcompany-buza
+minjenv,Ministerie van Justitie en Veiligheid,government,Nederland,NL,,Digitale overheid,researched,,,,,privacy-dpia-minjenv
+mid-sweden-university,Mittuniversitetet / Mid Sweden University,knowledge,Sundsvall,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,62.39129,17.3063,city,gs2-sustaingov-about; gs2-bron-public; gs2-miun-contact; gs2-sustaingov-partners-current
+gts-699,MPARE,company,Niet vastgesteld,,,Energie & leefomgeving; Other; IoT,catalogue,,,,,eu-companies
+municipio-maia,Município da Maia,government,Maia,PT,,Digitale overheid; Innovatie,researched,,41.23574,'-8.6199,city,ib2-unu-municipal
+municipio-matosinhos,Município de Matosinhos,government,Matosinhos,PT,,Digitale overheid; Innovatie,researched,,41.18207,'-8.68908,city,ib2-unu-municipal
+gts-683,My Clean City,company,Niet vastgesteld,,,Energie & leefomgeving; Other; Cloud Computing,catalogue,,,,,eu-companies; public-2021
+gts-593,myTomorrows,company,Niet vastgesteld,,,Zorg; Other,catalogue,,,,,eu-companies
+ncsc,NCSC,government,Den Haag,NL,Zuid-Holland,Cybersecurity; AI,researched,,52.07924232,4.32178208,address,ubi-ncsc; ncsc-address
+ncsr-demokritos,NCSR Demokritos,knowledge,Agia Paraskevi,GR,,Digitale overheid; Innovatie; Europese samenwerking,researched,,38.01667,23.83333,city,gs2-smartattica-ec; gs2-smartattica-facilities
+netcompany-netherlands,Netcompany Netherlands,company,Delft,NL,Zuid-Holland,Software; Digitale overheid; Cloud,researched,27239458,51.99845672,4.36310563,city,netcompany-buza
+gts-609,Next Generation Sensors B.V.,company,Niet vastgesteld,,,Zorg; Other,catalogue,,,,,eu-companies
+next-netz,NExT Netzwerk,hub,Berlijn,DE,,Digitale overheid; Innovatie; Community,researched,,52.52437,13.41053,city,fg2-next; fg2-govimpact
+nexyz,NexyZ,support,Den Haag,NL,Zuid-Holland,Financiering; Advies,researched,,52.06994473,4.32470913,hub,tht-appsignal
+notubiz,NotuBiz,company,Capelle aan den IJssel,NL,Zuid-Holland,Software; Democratie; Besluitvorming,researched,,51.934929,4.58013769,city,nl-notubiz
+nova-ims,NOVA IMS,knowledge,Lissabon,PT,,Digitale overheid; Innovatie,researched,,38.72509,'-9.1498,city,ib2-ai4pa; ib2-ai4pa-training
+report-novel-t,Novel-T,hub,Enschede,NL,Overijssel,Innovatie,historical,,52.22080698,6.8777881,city,public-2021
+gts-688,Nowi,company,Delft,NL,Zuid-Holland,Energie & leefomgeving; Other; IoT,catalogue,,51.99845672,4.36310563,city,eu-companies
+gts-405,OnlineSlagen,company,Niet vastgesteld,,,Onderwijs; Other,catalogue,,,,,eu-companies
+gfoss,Open Technologies Alliance (GFOSS),hub,Athene,GR,,Digitale overheid; Innovatie; Europese samenwerking,researched,,37.98376,23.72784,city,gs2-grnet-hub; gs2-gr-digigov-ec
+opengemeenten,OpenGemeenten,company,Maarn,NL,Utrecht,Software; Toegankelijkheid; Open source,researched,,52.06557856,5.36493833,city,nl-opengemeenten; nl-opengemeenten-cases
+gts-602,Pact Care,company,Niet vastgesteld,,,Zorg; Other,catalogue,,,,,eu-companies
+pd-berater,PD – Berater der öffentlichen Hand,support,Berlijn,DE,,Digitale overheid; Innovatie; Community,researched,,52.52437,13.41053,city,fg2-pd-partnership; fg2-govtech-members; fg2-f13-update-2025
+gts-1144,Perpetual Next,company,Amsterdam,NL,Noord-Holland,Energie & leefomgeving; Other,catalogue,,52.37344272,4.90454379,city,eu-companies
+pinkroccade-lg,PinkRoccade Local Government,company,'s-Hertogenbosch,NL,Noord-Brabant,Software; Burgerzaken; Gemeenten,researched,,51.70997488,5.29571059,city,nl-pink-address; nl-pink-products
+platformai,Platform AI & Overheid,support,Nederland,,,AI; Community,researched,,,,,onegov
+report-portxl,PortXL,hub,Rotterdam,NL,Zuid-Holland,Innovatie,historical,,51.92248806,4.48653571,city,public-2021
+privacy-company,Privacy Company,company,Den Haag,NL,Zuid-Holland,Privacy; DPIA; Digitale overheid,researched,63080052,52.07207291,4.29300083,city,privacy-dpia-minjenv; privacy-company-home
+prospero,Prospero,company,Den Haag,NL,Zuid-Holland,Software; Planning,researched,,52.06994473,4.32470913,hub,tht-prospero
+pzh,Provincie Zuid-Holland,government,Den Haag,NL,Zuid-Holland,AI; Mobiliteit,researched,,52.0871042,4.31707256,address,onegov; digi-partners; pzh-address
+gts-590,Quantib,company,Niet vastgesteld,,,Zorg; Artificial Intelligence,catalogue,,,,,eu-companies
+gts-1150,QuantWare,company,Niet vastgesteld,,,Digitale overheid; Quantum Computing,catalogue,,,,,eu-companies
+quintor,Quintor,company,Den Haag,NL,Zuid-Holland,Software; Architectuur; Security,researched,02090135,52.07207291,4.29300083,city,quintor-clients
+quovadis-nl,QuoVadis Trustlink,company,Nieuwegein,NL,Utrecht,Identiteit; eHerkenning; Certificaten,researched,30237459,52.03081752,5.09467157,city,nl-quovadis-address; nl-eherkenning
+reconi,Reconi,company,Zaandam,NL,Noord-Holland,Identiteit; eHerkenning,researched,,52.4454116,4.82520183,city,nl-reconi-address; nl-eherkenning
+gts-687,RecyQ,company,Niet vastgesteld,,,Energie & leefomgeving; Other; IoT,catalogue,,,,,eu-companies
+rede-laboratorios-pt,Rede de Laboratórios de Inovação e Experimentação,hub,Landelijk / digitaal netwerk,PT,,Digitale overheid; Innovatie,researched,,,,,ib2-labx
+rnaa-pt,Rede Nacional de Administração Aberta,hub,Landelijk / digitaal netwerk,PT,,Digitale overheid; Innovatie,researched,,,,,ib2-labx
+gts-392,Revisely,company,Niet vastgesteld,,,Onderwijs; Other,catalogue,,,,,eu-companies
+rijksoverheid,Rijksoverheid / Dutch government,government,Nederland,NL,,Digitale overheid,researched,,,,,fox-public
+rijkswaterstaat,Rijkswaterstaat,government,Nederland,NL,,Digitale overheid,researched,,,,,cgi-clients; mendix-government
+robin-radar-systems,Robin Radar Systems,company,Den Haag,NL,Zuid-Holland,Veiligheid; Radar; Drones,researched,27371517,52.07207291,4.29300083,city,robin-customers
+gts-689,Route4Gas,company,Niet vastgesteld,,,Economie; Other,catalogue,,,,,eu-companies
+roxit,Roxit,company,Zwolle,NL,Overijssel,Software; Leefomgeving; Gemeenten,researched,05075639,52.51868565,6.11836361,city,nl-roxit-address; nl-roxit-products
+shift2,Shift2,company,Capelle aan den IJssel,NL,Zuid-Holland,Software; Burgerzaken; Toegankelijkheid,researched,,51.934929,4.58013769,city,nl-shift2; nl-shift2-merger
+signicat-nl,Signicat Nederland / We-ID,company,Rotterdam,NL,Zuid-Holland,Identiteit; eHerkenning; Interoperabiliteit,researched,24444001,51.92248806,4.48653571,city,nl-signicat-address; nl-signicat-identity; nl-we-id-identity; nl-eherkenning
+gts-592,Siilo,company,Niet vastgesteld,,,Zorg; Other,catalogue,,,,,eu-companies
+gts-406,Skill Lab,company,Niet vastgesteld,,,Digitale overheid; Other,catalogue,,,,,eu-companies
+gts-591,SkinVision,company,Niet vastgesteld,,,Zorg; Artificial Intelligence,catalogue,,,,,eu-companies
+smart-attica,Smart Attica EDIH,hub,Agia Paraskevi,GR,,Digitale overheid; Innovatie; Europese samenwerking,researched,,38.01667,23.83333,city,gs2-smartattica-ec; gs2-smartattica-facilities
+gts-394,Snappet,company,Niet vastgesteld,,,Onderwijs; Other,catalogue,,,,,eu-companies
+gts-1050,Sobolt,company,Rotterdam,NL,Zuid-Holland,Energie & leefomgeving,catalogue,67363571,51.92334649,4.4742017,postcode,eu-companies; kvk-2025
+sogeti,Sogeti,company,Capelle aan den IJssel,NL,Zuid-Holland,Software; Cloud; Digitale overheid,researched,30200252,51.934929,4.58013769,city,sogeti-leeuwarden
+solarmonkey,Solar Monkey,company,Den Haag,NL,Zuid-Holland,Energie; Software,researched,64301400,52.06994473,4.32470913,hub,tht-move; tht-party
+solvinity,Solvinity,company,Amersfoort,NL,Utrecht,Cloud; Cybersecurity; Digitale overheid,researched,59597291,52.16815655,5.38941304,city,nl-solvinity-address; nl-solvinity-logius
+report-space-business-innovation-centre-noordwijk,Space Business Innovation Centre Noordwijk,hub,Noordwijk,,,Innovatie,historical,,,,city,public-2021
+spri,SPRI – Basque Business Development Agency,government,Bilbao,ES,,Digitale overheid; Innovatie,researched,,43.26271,'-2.92528,city,ib2-bind; ib2-bind-faq
+sscict,SSC-ICT,government,Den Haag,NL,Zuid-Holland,AI; Cloud; Digitale overheid,researched,,52.08797204,4.3148917,postal,ubi-tender; ubi-ssc
+stackit,STACKIT / Schwarz Digits Cloud,company,Bad Friedrichshall,DE,,Digitale overheid; Cloud; AI,researched,,49.24067,9.21509,city,fg2-f13; fg2-govtech-members; fg2-stackit-address; fg2-f13-update-2025
+report-startlife,StartLife,hub,Wageningen,NL,Gelderland,Innovatie,historical,,51.97347594,5.66351011,city,public-2021
+gt-57,Startup in Residence,support,Amsterdam,NL,Noord-Holland,Innovatie,catalogue,,52.37344272,4.90454379,city,eu-initiatives
+compare,Stiftelsen Compare,hub,Karlstad,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,59.3793,13.50357,city,gs2-digitalwell-about; gs2-sustaingov-about; gs2-compare-contact; gs2-sustaingov-partners-current
+gts-393,StuDocu,company,Niet vastgesteld,,,Onderwijs; Artificial Intelligence,catalogue,,,,,eu-companies
+summ-ai,SUMM AI,company,München,DE,,Digitale overheid; AI; Toegankelijkheid,researched,,48.13743,11.57549,city,fg2-govtechh-summ; fg2-govtech-members; fg2-summ-address
+gts-654,Sustainable Buildings,company,Niet vastgesteld,,,Energie & leefomgeving; Other; IoT,catalogue,,,,,eu-companies
+sustaingov,SustainGov,hub,Sundsvall,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,62.39129,17.3063,city,gs2-sustaingov-about; gs2-sustaingov-funding; gs2-bron-sustaingov; gs2-sustaingov-partners-current
+svea-public-assistant,Svea – gemensam digital assistent,hub,Stad niet vastgesteld,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,,,,gs2-svea
+skr,Sveriges Kommuner och Regioner (SKR),support,Stockholm,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,59.32938,18.06871,city,gs2-skr-contact; gs2-sustaingov-about; gs2-sustaingov-partners-current
+gts-390,Teach 'n Go,company,Niet vastgesteld,,,Onderwijs; Cloud Computing,catalogue,,,,,eu-companies
+gt-59,TechLeap,support,Amsterdam,NL,Noord-Holland,Innovatie,catalogue,,52.37344272,4.90454379,city,eu-initiatives
+gts-488,Tenderapp,company,Niet vastgesteld,,,Economie; Cloud Computing,catalogue,,,,,eu-companies
+tht,The Hague Tech,hub,Den Haag,NL,Zuid-Holland,Community; Innovatie,researched,,52.06994473,4.32470913,address,tht-move; onegov
+lisbon-council,The Lisbon Council,support,Brussel,BE,,Community; Digitale overheid; Europese samenwerking,researched,,50.85045,4.34878,city,eur-govtech4all; eur-lisbon-address
+gts-1068,The Routing Company,company,Niet vastgesteld,,,Digitale overheid,catalogue,,,,,eu-companies
+gts-407,TiltShift BV,company,Niet vastgesteld,,,Economie; Other,catalogue,,,,,eu-companies
+gts-655,Toogethr,company,Niet vastgesteld,,,Energie & leefomgeving; Other,catalogue,,,,,eu-companies
+tudelft,TU Delft,knowledge,Delft,NL,Zuid-Holland,Onderzoek; Digitale overheid,researched,,51.99845672,4.36310563,city,digi-partners
+ubiops,UbiOps,company,Den Haag,NL,Zuid-Holland,AI; Cloud; On-premise,researched,66849381,52.07903126,4.34130102,address_snapshot,ubi-ncsc; ubi-tender; tht-move
+universidade-minho,Universidade do Minho,knowledge,Braga,PT,,Digitale overheid; Innovatie,researched,,41.5514,'-8.42311,city,ib2-unu
+university-macedonia,University of Macedonia,knowledge,Thessaloniki,GR,,Digitale overheid; Innovatie; Europese samenwerking,researched,,40.64072,22.93493,city,gs2-grnet-hub; gs2-gr-digigov-ec
+university-aegean,University of the Aegean,knowledge,Karlovasi,GR,,Digitale overheid; Innovatie; Europese samenwerking,researched,,37.79209,26.7049,city,gs2-grnet-hub; gs2-gr-digigov-ec
+unu-egov,UNU-EGOV,knowledge,Guimarães,PT,,Digitale overheid; Innovatie,researched,,41.44443,'-8.29619,city,ib2-unu; ib2-unu-municipal
+report-up-rotterdam,Up!Rotterdam,hub,Rotterdam,NL,Zuid-Holland,Innovatie,historical,,51.92248806,4.48653571,city,public-2021
+dhs,US Department of Homeland Security,government,Niet vastgesteld,US,,Digitale overheid,researched,,,,,robin-customers
+report-utrechtinc,UtrechtInc,hub,Utrecht,NL,Utrecht,Innovatie,historical,,52.0886922,5.09520363,city,public-2021
+gts-691,Vandebron,company,Niet vastgesteld,,,Energie & leefomgeving; Other,catalogue,,,,,eu-companies
+gts-1088,VicarVision,company,Niet vastgesteld,,,Digitale overheid,catalogue,,,,,eu-companies
+vinnova,Vinnova,government,Stockholm,SE,,Digitale overheid; Innovatie; Europese samenwerking,researched,,59.32938,18.06871,city,gs2-sustaingov-funding; gs2-svea
+visma-circle,Visma Circle,company,Eindhoven,NL,Noord-Brabant,Software; Zaakgericht werken; Informatiebeheer,researched,,51.45016172,5.45853544,city,nl-visma-circle
+visma-connect,Visma Connect,company,Rijswijk,NL,Zuid-Holland,Digitale overheid; Berichtenverkeer; XBRL,researched,30217488,52.03619628,4.32603246,city,visma-logius
+vng,VNG Realisatie,government,Den Haag,NL,Zuid-Holland,Digitale overheid; Gemeenten,researched,27348329,52.0863399,4.30841631,postcode,onegov; kvk-2025
+gts-491,Warp VR,company,Niet vastgesteld,,,Digitale overheid; Other,catalogue,,,,,eu-companies
+gt-166,Water Alliance,support,Leeuwarden,NL,Fryslân,Water,catalogue,,53.19487304,5.80274581,address,eu-initiatives; wateralliance-address
+brabantse-delta,Waterschap Brabantse Delta,government,Nederland,NL,,Digitale overheid,researched,,,,,nl-visma-circle
+gts-1139,WeAreFrank!,company,Rotterdam,NL,Zuid-Holland,Digitale overheid; Cloud Computing,catalogue,,51.92248806,4.48653571,city,eu-companies
+gts-237,WeSwitch,company,Niet vastgesteld,,,Energie & leefomgeving; IoT; Cloud Computing,catalogue,,,,,eu-companies
+gt-165,Wetsus,knowledge,Leeuwarden,NL,Fryslân,Water,catalogue,,53.1964329,5.80369987,address,eu-initiatives; wetsus-address
+wigo4it,Wigo4it,government,Den Haag,NL,Zuid-Holland,Common Ground; Cloud; Sociaal domein,researched,,52.07207291,4.29300083,city,nl-wigo-dimpact
+gts-696,Withthegrid,company,Niet vastgesteld,,,Energie & leefomgeving; IoT; Artificial Intelligence,catalogue,,,,,eu-companies
+worldstartup,WorldStartup,support,Den Haag,NL,Zuid-Holland,Community; Innovatie,researched,,52.06994473,4.32470913,hub,tht-party; tht-move
+xxllnc,xxllnc,company,Hengelo,NL,Overijssel,Software; Zaakgericht werken; Gemeenten,researched,,52.25490615,6.77819416,city,nl-xxllnc-profile; nl-xxllnc-lansingerland; nl-xxllnc-province-pdok
+yard,Yard Digital Agency,company,Utrecht,NL,Utrecht,Open source; Toegankelijkheid; Digitale overheid,researched,,52.0886922,5.09520363,city,nl-yard-address; nl-yard-products
+report-yes-delft,YES!Delft,hub,Delft,NL,Zuid-Holland,Innovatie,historical,,51.99845672,4.36310563,city,public-2021
+zendis,ZenDiS – Zentrum Digitale Souveränität,government,Bochum,DE,,Digitale overheid; Open source; Europese samenwerking,researched,,51.48165,7.21648,city,fg2-zendis-dinum; fg2-zendis-address
+gts-461,Zivver,company,Niet vastgesteld,,,Zorg; Artificial Intelligence; Other,catalogue,,,,,eu-companies
+nts-tno,TNO,knowledge,Den Haag,NL,Zuid-Holland,AI & algoritmen; Data; Digitale autonomie; Veiligheid; Duurzaamheid; Innovatie & inkoop,researched,,52.07207291,4.29300083,city,nts-tno-about; nts-ai-data-document; nts-osip-html; nts-tno-city; nts-pdok-docs
+nts-nwo,Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO),government,Den Haag,NL,Zuid-Holland,Innovatie & inkoop; AI & algoritmen; Data,researched,,52.07207291,4.29300083,city,nts-nwo-register; nts-ai-data-document; nts-pdok-docs
+nts-fme,FME,support,Zoetermeer,NL,Zuid-Holland,Innovatie & inkoop; Digitale autonomie,researched,,52.06091036,4.48977382,city,nts-fme-mission; nts-fme-legal; nts-digital-development; nts-fme-city; nts-pdok-docs
+nts-vno-ncw,VNO-NCW,support,Den Haag,NL,Zuid-Holland,Innovatie & inkoop; Digitale autonomie,researched,,52.07207291,4.29300083,city,nts-vno-about; nts-digital-development; nts-pdok-docs
+nts-photondelta,Stichting PhotonDelta,support,Eindhoven,NL,Noord-Brabant,Innovatie & inkoop; Digitale autonomie; Duurzaamheid,researched,,51.45016172,5.45853544,city,nts-photondelta-about; nts-osip-html; nts-pdok-docs
+nts-photonicsnl,Vereniging PhotonicsNL,support,Enschede,NL,Overijssel,Innovatie & inkoop; Digitale autonomie,researched,,52.22080698,6.8777881,city,nts-photonicsnl-about; nts-osip-html; nts-photonicsnl-city; nts-pdok-docs
+nts-demcon,Demcon,company,Enschede,NL,Overijssel,Veiligheid; Duurzaamheid; Innovatie & inkoop,researched,,52.22080698,6.8777881,city,nts-demcon-about; nts-osip-html; nts-demcon-city; nts-pdok-docs
+nts-thales-nederland,Thales Nederland,company,Hengelo,NL,Overijssel,Veiligheid; Digitale autonomie,researched,,52.25490615,6.77819416,city,nts-thales-2026; nts-osip-html; nts-pdok-docs
+nts-nlr,Nederlands Lucht- en Ruimtevaartcentrum (NLR),knowledge,Amsterdam,NL,Noord-Holland,Veiligheid; Duurzaamheid; Innovatie & inkoop,researched,,52.37344272,4.90454379,city,nts-nlr-about; nts-osip-html; nts-nlr-city; nts-pdok-docs
+nts-innatera,Innatera,company,Rijswijk,NL,Zuid-Holland,AI & algoritmen; Duurzaamheid; Digitale autonomie,researched,,52.03619628,4.32603246,city,nts-innatera-about; nts-ai-data-html; nts-pdok-docs
+nts-axelera-ai,Axelera AI,company,Eindhoven,NL,Noord-Brabant,AI & algoritmen; Digitale autonomie; Duurzaamheid,researched,,51.45016172,5.45853544,city,nts-axelera-about; nts-ai-data-html; nts-axelera-city; nts-pdok-docs
+nts-cwi,Centrum Wiskunde & Informatica (CWI),knowledge,Amsterdam,NL,Noord-Holland,AI & algoritmen; Data; Veiligheid,researched,,52.37344272,4.90454379,city,nts-cwi-about; nts-ai-data-html; nts-pdok-docs
+nts-radboud,Radboud Universiteit,knowledge,Nijmegen,NL,Gelderland,AI & algoritmen; Data; Innovatie & inkoop,researched,,51.83481969,5.83320521,city,nts-radboud-about; nts-ai-data-html; nts-radboud-city; nts-pdok-docs
+nts-utwente,Universiteit Twente,knowledge,Enschede,NL,Overijssel,AI & algoritmen; Digitale autonomie; Veiligheid; Duurzaamheid,researched,,52.22080698,6.8777881,city,nts-utwente-home; nts-ai-data-html; nts-utwente-city; nts-pdok-docs
+nts-tue,Technische Universiteit Eindhoven,knowledge,Eindhoven,NL,Noord-Brabant,AI & algoritmen; Digitale autonomie; Innovatie & inkoop,researched,,51.45016172,5.45853544,city,nts-tue-profile; nts-ai-data-html; nts-pdok-docs
+nts-digital-holland,Digital Holland (Stichting TKI ICT),knowledge,Den Haag,NL,Zuid-Holland,AI & algoritmen; Data; Veiligheid; Digitale autonomie; Innovatie & inkoop,researched,,52.07207291,4.29300083,city,nts-digital-holland-identity; nts-digital-holland-about; nts-digital-holland-city; nts-digital-development; nts-pdok-docs
+nds-ministerie-bzk,Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK),government,Den Haag,NL,Zuid-Holland,Data; Proactieve & toegankelijke dienstverlening; Digitale autonomie,researched,,52.07207291,4.29300083,city,nds-bzk-address; nds-strategy-2025; nds-ibds-current; nds-hwh-berap-2026; nds-council-ended
+nds-ministerie-ezk,Ministerie van Economische Zaken en Klimaat (EZK),government,Den Haag,NL,Zuid-Holland,Digitale autonomie; Innovatie & inkoop; AI & algoritmen,researched,,52.07207291,4.29300083,city,nds-ezk-address; nds-council-ended
+nds-ipo,Interprovinciaal Overleg (IPO),government,Den Haag,NL,Zuid-Holland,Data; Digitale autonomie,researched,,52.07207291,4.29300083,city,nds-ipo-about; nds-timeline; nds-fds-intentions
+nds-unie-van-waterschappen,Unie van Waterschappen,government,Den Haag,NL,Zuid-Holland,Data; Digitale autonomie,researched,,52.07207291,4.29300083,city,nds-uvw-about; nds-uvw-contact; nds-timeline; nds-fds-intentions
+nds-het-waterschapshuis,Het Waterschapshuis,government,Amersfoort,NL,Utrecht,Data; Veiligheid; Digitale autonomie,researched,,52.16815655,5.38941304,city,nds-hwh-address; nds-hwh-berap-2026; nds-ibds-current
+nds-rvig,Rijksdienst voor Identiteitsgegevens (RvIG),government,Den Haag,NL,Zuid-Holland,Data; Proactieve & toegankelijke dienstverlening,researched,,52.07207291,4.29300083,city,nds-rvig-register; nds-rvig-about; nds-fds-intentions; nds-ibds-current
+nds-cbs,Centraal Bureau voor de Statistiek (CBS),government,Den Haag,NL,Zuid-Holland,Data,researched,,52.07207291,4.29300083,city,nds-cbs-about; nds-cbs-address; nds-hwh-berap-2026; nds-ibds-current
+nds-kadaster,Kadaster,government,Apeldoorn,NL,Gelderland,Data,researched,,52.21083598,5.9737347,city,nds-kadaster-about; nds-kadaster-address; nds-hwh-berap-2026; nds-ibds-current
+nds-kvk,Kamer van Koophandel (KVK),government,Utrecht,NL,Utrecht,Data; Proactieve & toegankelijke dienstverlening,researched,,52.0886922,5.09520363,city,nds-kvk-about; nds-kvk-address; nds-fds-intentions; nds-ibds-current
+nds-cak,CAK,government,Den Haag,NL,Zuid-Holland,Proactieve & toegankelijke dienstverlening,researched,,52.07207291,4.29300083,city,nds-cak-about; nds-cak-address; nds-kb-ido-partners; nds-parliament-1401
+nds-uwv,Uitvoeringsinstituut Werknemersverzekeringen (UWV),government,Amsterdam,NL,Noord-Holland,Proactieve & toegankelijke dienstverlening; Data,researched,,52.37344272,4.90454379,city,nds-uwv-address; nds-kb-ido-partners; nds-uwv-nds-data
+nds-svb,Sociale Verzekeringsbank (SVB),government,Amstelveen,NL,Noord-Holland,Proactieve & toegankelijke dienstverlening,researched,,52.28926595,4.85148663,city,nds-svb-address; nds-kb-ido-partners; nds-parliament-1401
+nds-belastingdienst,Belastingdienst,government,Niet vastgesteld,NL,,Proactieve & toegankelijke dienstverlening; Data,researched,,,,,nds-belastingdienst-about; nds-kb-ido-partners; nds-fds-intentions; nds-ibds-current; nds-parliament-1401
+nds-kb,"KB, nationale bibliotheek",government,Den Haag,NL,Zuid-Holland,Proactieve & toegankelijke dienstverlening,researched,,52.07207291,4.29300083,city,nds-kb-address; nds-kb-ido-partners; nds-parliament-1401; nds-kb-zbo
+nds-vob,Vereniging Openbare Bibliotheken (VOB),support,Utrecht,NL,Utrecht,Proactieve & toegankelijke dienstverlening,researched,,52.0886922,5.09520363,city,nds-vob-address; nds-ido-vob-government; nds-parliament-1401
+nds-surf,SURF,knowledge,Utrecht,NL,Utrecht,AI & algoritmen; Digitale autonomie; Data,researched,,52.0886922,5.09520363,city,nds-surf-about; nds-surf-address; nds-gpt-nl-tno; nds-gpt-nl-government-2026
+nds-nfi,Nederlands Forensisch Instituut (NFI),knowledge,Den Haag,NL,Zuid-Holland,AI & algoritmen; Veiligheid; Digitale autonomie,researched,,52.07207291,4.29300083,city,nds-nfi-about; nds-gpt-nl-tno; nds-gpt-nl-government-2026
+nds-kickstart-ai,Stichting Kickstart AI,support,Delft,NL,Zuid-Holland,AI & algoritmen; Innovatie & inkoop,researched,,51.99845672,4.36310563,city,nds-kickstart-paper; nds-kickstart-contact; nds-parliament-1401
+municipal-vng,Vereniging van Nederlandse Gemeenten (VNG),government,Niet vastgesteld,NL,,Proactieve & toegankelijke dienstverlening; Data; Digitale autonomie,researched,,,,,gdi-municipal-source-vng; gdi-municipal-source-cg-programme; gdi-municipal-source-haal; gdi-municipal-source-nlds
+provincial-utrecht,Provincie Utrecht,government,Niet vastgesteld,NL,Utrecht,Data; Duurzaamheid; Veiligheid,researched,,,,,provincial-src-utrecht-ggo; provincial-src-utrecht-ggo-ondersteuning
+provincial-overijssel,Provincie Overijssel,government,Niet vastgesteld,NL,Overijssel,Data; Proactieve & toegankelijke dienstverlening,researched,,,,,provincial-src-overijssel-mobiliteitsdata
+provincial-bij12,BIJ12,government,Niet vastgesteld,NL,,Data; Duurzaamheid; Proactieve & toegankelijke dienstverlening,researched,,,,,provincial-src-bij12-applicaties; provincial-src-bij12-ipo
+eu-digital-european-commission,Europese Commissie,government,Niet vastgesteld,EU,,Proactieve & toegankelijke dienstverlening; Data; Digitale autonomie,researched,,,,,eu-digital-source-digital; eu-digital-source-interop; eu-digital-source-domibus-release
+bridge-european-science-foundation,European Science Foundation,knowledge,Niet vastgesteld,FR,,Digitale autonomie; Data,researched,,,,,bridge-src-sargasso-cordis; bridge-src-esf-role
+bridge-3cl-foundation,3CL Foundation,government,Niet vastgesteld,MT,,Proactieve & toegankelijke dienstverlening; Privacy & PET; Digitale autonomie,researched,,,,,bridge-src-sargasso-ebsi-can; bridge-src-3cl-role
+bridge-arucc,ARUCC — MyCreds/MesCertif,support,Niet vastgesteld,CA,,Proactieve & toegankelijke dienstverlening; Privacy & PET; Digitale autonomie,researched,,,,,bridge-src-sargasso-ebsi-can; bridge-src-arucc-owner
+bridge-sphereon,Sphereon (historische projectnaam),company,Niet vastgesteld,NL,,Proactieve & toegankelijke dienstverlening; Privacy & PET; Digitale autonomie,historical,,,,,bridge-src-sargasso-ddip; bridge-src-sphereon-northern-merger
+bridge-northern-block,Northern Block (historische projectnaam),company,Niet vastgesteld,CA,,Proactieve & toegankelijke dienstverlening; Privacy & PET; Digitale autonomie,historical,,,,,bridge-src-sargasso-ddip; bridge-src-sphereon-northern-merger
+bridge-kallistech,Kallistech SAS,company,Niet vastgesteld,FR,,Proactieve & toegankelijke dienstverlening; Privacy & PET; Digitale autonomie,researched,,,,,bridge-src-sargasso-d3ica; bridge-src-kallistech-company-profile
+bridge-bluink,Bluink,company,Niet vastgesteld,CA,,Proactieve & toegankelijke dienstverlening; Privacy & PET; Digitale autonomie,researched,,,,,bridge-src-sargasso-d3ica
+bridge-walt-id,walt.id GmbH,company,Niet vastgesteld,AT,,Proactieve & toegankelijke dienstverlening; Privacy & PET; Digitale autonomie,researched,,,,,bridge-src-sargasso-interop4did; bridge-src-walt-register
+bridge-affinitiquest,AffinitiQuest,company,Niet vastgesteld,CA,,Proactieve & toegankelijke dienstverlening; Privacy & PET; Digitale autonomie,researched,,,,,bridge-src-sargasso-interop4did
+ca-cds,Canadian Digital Service,government,Niet vastgesteld,CA,,Proactieve & toegankelijke dienstverlening; Data; Digitale autonomie; Veiligheid,researched,,,,,ca-src-cds-about; ca-src-cds-aug2026; ca-src-dtc-announcement
+ca-tbs,Treasury Board of Canada Secretariat,government,Ottawa,CA,Ontario,AI & algoritmen; Data; Participatie,researched,,45.41117,'-75.69812,city,ca-src-aia-owner; ca-src-ai-register; ca-src-open-portal-policy; ca-src-office-city-tbs
+ca-ised,"Innovation, Science and Economic Development Canada",government,Ottawa,CA,Ontario,Innovatie & inkoop; Proactieve & toegankelijke dienstverlening,researched,,45.41117,'-75.69812,city,ca-src-isc-testing; ca-src-isc-challenge; ca-src-office-city-ised
+ca-pspc,Public Services and Procurement Canada,government,Gatineau,CA,Québec,Innovatie & inkoop; Data; Proactieve & toegankelijke dienstverlening,researched,,45.47723,'-75.70164,city,ca-src-canadabuys; ca-src-isc-roadmap; ca-src-dtc-announcement; ca-src-office-city-pspc
+ca-nrc,National Research Council Canada,government,Ottawa,CA,Ontario,Innovatie & inkoop; Proactieve & toegankelijke dienstverlening,researched,,45.41117,'-75.69812,city,ca-src-isc-testing; ca-src-office-city-nrc
+ca-esdc,Employment and Social Development Canada,government,Niet vastgesteld,CA,,Proactieve & toegankelijke dienstverlening; Data,researched,,,,,ca-src-cds-about; ca-src-dtc-announcement
+ca-ssc,Shared Services Canada,government,Niet vastgesteld,CA,,Proactieve & toegankelijke dienstverlening; Data,researched,,,,,ca-src-dtc-announcement
+ca-dtc,Digital Transformation Canada,government,Niet vastgesteld,CA,,Proactieve & toegankelijke dienstverlening; AI & algoritmen; Innovatie & inkoop; Digitale autonomie,researched,,,,,ca-src-dtc-announcement
+ca-prairiescan,Prairies Economic Development Canada,government,Niet vastgesteld,CA,,Proactieve & toegankelijke dienstverlening; Digitale autonomie; Veiligheid,researched,,,,,ca-src-canadalogin-adoption
+ca-pacifican,Pacific Economic Development Canada,government,Niet vastgesteld,CA,,Proactieve & toegankelijke dienstverlening; Digitale autonomie; Veiligheid,researched,,,,,ca-src-canadalogin-adoption
+ca-indigenous-services,Indigenous Services Canada,government,Niet vastgesteld,CA,,Proactieve & toegankelijke dienstverlening; Data; Arbeidsbesparing,researched,,,,,ca-src-forms-isc-use
+ca-diacc,Digital ID and Authentication Council of Canada,support,Toronto,CA,Ontario,Veiligheid; Data; Digitale autonomie,researched,,43.70643,'-79.39864,city,ca-src-diacc-about; ca-src-pctf; ca-src-diacc-city; ca-src-geonames-toronto
+ca-dgc,Digital Governance Council,support,Niet vastgesteld,CA,,Data; Digitale autonomie,researched,,,,,ca-src-dgc-about; ca-src-dpi-roundtables
+ca-government-british-columbia,Government of British Columbia,government,Niet vastgesteld,CA,British Columbia,Proactieve & toegankelijke dienstverlening; Privacy & PET,researched,,,,,ca-prov-source-bc-services-card-login-1; ca-prov-source-bc-services-card-login-2
+ca-connected-services-bc,Connected Services BC,government,Niet vastgesteld,CA,British Columbia,Proactieve & toegankelijke dienstverlening; Digitale autonomie,researched,,,,,ca-prov-source-bc-chefs-1; ca-prov-source-csbc
+ca-government-ontario,Government of Ontario,government,Niet vastgesteld,CA,Ontario,Proactieve & toegankelijke dienstverlening,researched,,,,,ca-prov-source-ontario-design-system-1; ca-prov-source-ontario-design-system-2; ca-prov-source-ontario-design-system-3
+ca-quebec-cybersecurity-digital-ministry,Ministère de la Cybersécurité et du Numérique (Québec),government,Niet vastgesteld,CA,Québec,Data; Digitale autonomie,researched,,,,,ca-prov-source-donnees-quebec-1
+ca-alberta-technology-innovation,Government of Alberta — Technology and Innovation,government,Niet vastgesteld,CA,Alberta,Proactieve & toegankelijke dienstverlening; Privacy & PET,researched,,,,,ca-prov-source-alberta-ca-account-2; ca-prov-source-alberta-ca-account-3
+ca-city-calgary,City of Calgary,government,Calgary,CA,Alberta,Data,researched,,,,,ca-prov-source-calgary-open-data-1
+ca-code-for-canada,Code for Canada,support,Toronto,CA,Ontario,Proactieve & toegankelijke dienstverlening; Digitale autonomie; AI & algoritmen,researched,,43.70643,'-79.39864,city,ca-prov-source-code-for-canada-1; ca-prov-source-code-for-canada-3
+ca-open-north,Open North,support,Montréal,CA,Québec,Data; Participatie; Digitale autonomie,researched,,45.50884,'-73.58781,city,ca-prov-source-open-north-1; ca-prov-source-open-north-2; ca-prov-source-open-north-3; ca-prov-source-open-north-4
+nts-strategy,Nationale Technologiestrategie (NTS),hub,Niet vastgesteld,NL,,Innovatie & inkoop; Digitale autonomie; Veiligheid; Duurzaamheid; AI & algoritmen; Data,researched,,,,,nts-policy-2024; nts-action-overview-2026
+nts-ai-data,NTS — Actieagenda AI & Data,hub,Niet vastgesteld,NL,,AI & algoritmen; Data; Digitale autonomie; Duurzaamheid; Privacy & PET,researched,,,,,nts-ai-data-html; nts-ai-data-document; nts-action-overview-2026
+nts-osip,NTS — Optical Systems & Integrated Photonics (OSIP),hub,Niet vastgesteld,NL,,Digitale autonomie; Veiligheid; Duurzaamheid; Innovatie & inkoop,researched,,,,,nts-osip-html; nts-action-overview-2026
+nds-nederlandse-digitaliseringsstrategie,Nederlandse Digitaliseringsstrategie (NDS),hub,Niet vastgesteld,NL,,Digitale autonomie; Data; AI & algoritmen; Proactieve & toegankelijke dienstverlening; Veiligheid; Innovatie & inkoop,researched,,,,,nds-strategy-2025; nds-strategy-launch; nds-three-interventions; nds-council-ended; nds-timeline
+nds-federatief-datastelsel,Federatief Datastelsel (FDS),hub,Niet vastgesteld,NL,,Data; Privacy & PET; Digitale autonomie,researched,,,,,nds-fds-technical; nds-ibds-current; nds-hwh-berap-2026; nds-fds-intentions
+nds-informatiepunten-digitale-overheid,Informatiepunten Digitale Overheid (IDO),hub,Niet vastgesteld,NL,,Proactieve & toegankelijke dienstverlening,researched,,,,,nds-kb-ido-partners; nds-ido-vob-government; nds-parliament-1401
+gdi-infrastructuur,Generieke Digitale Infrastructuur (GDI),hub,Niet vastgesteld,NL,,Proactieve & toegankelijke dienstverlening; Data; Veiligheid,researched,,,,,gdi-municipal-source-gdi
+municipal-common-ground,Common Ground,hub,Niet vastgesteld,NL,,Proactieve & toegankelijke dienstverlening; Data; Digitale autonomie,researched,,,,,gdi-municipal-source-cg; gdi-municipal-source-cg-programme; gdi-municipal-source-cg-roles; gdi-municipal-source-vng2026
+provincial-nds-samenwerking,"Interprovinciale samenwerking NDS: AI, cloud en weerbaarheid",hub,Niet vastgesteld,NL,,AI & algoritmen; Digitale autonomie; Veiligheid,researched,,,,,provincial-src-nds-capaciteit
+provincial-informatiehuishouding-2026-2030,Meerjarenplan Digitale Informatiehuishouding provincies 2026–2030,hub,Niet vastgesteld,NL,,Data; Proactieve & toegankelijke dienstverlening,researched,,,,,provincial-src-informatiehuishouding
+provincial-overijssel-mobiliteitsdata,Digitalisering mobiliteitsdata Overijssel,hub,Niet vastgesteld,NL,Overijssel,Data; Proactieve & toegankelijke dienstverlening,researched,,,,,provincial-src-overijssel-mobiliteitsdata
+eu-digital-programme,Digital Europe Programme (DIGITAL),hub,Niet vastgesteld,EU,,Innovatie & inkoop; Digitale autonomie; AI & algoritmen,researched,,,,,eu-digital-source-digital; eu-digital-source-digital-work
+eu-digital-interoperable-europe,Interoperable Europe,hub,Niet vastgesteld,EU,,Proactieve & toegankelijke dienstverlening; Data; Digitale autonomie,researched,,,,,eu-digital-source-interop; eu-digital-source-interop-progress
+eu-digital-eudi-wallet,European Digital Identity Wallet (EUDI Wallet),hub,Niet vastgesteld,EU,,Proactieve & toegankelijke dienstverlening; Privacy & PET; Digitale autonomie,researched,,,,,eu-digital-source-wallet-toolbox; eu-digital-source-wallet-prototype
+bridge-ngi-sargasso,NGI Sargasso,hub,Niet vastgesteld,EU,,Digitale autonomie; Privacy & PET; Data,historical,,,,,bridge-src-sargasso-cordis
+ca-innovative-solutions-canada,Innovative Solutions Canada,hub,Niet vastgesteld,CA,,Innovatie & inkoop; Proactieve & toegankelijke dienstverlening,researched,,,,,ca-src-isc-testing; ca-src-isc-roadmap; ca-src-isc-challenge
+ca-dpi-roundtables-2026,Interjurisdictional roundtables on Digital Public Infrastructure,hub,Niet vastgesteld,CA,,Data; Digitale autonomie,historical,,,,,ca-src-dpi-roundtables
+ca-eu-digital-partnership,EU–Canada Digital Partnership,hub,Niet vastgesteld,,,AI & algoritmen; Data; Veiligheid; Digitale autonomie,researched,,,,,ca-src-eu-partnership; ca-src-eu-partnership-structure; ca-src-eu-council-2025; ca-src-eu-ambition-sep16; ca-src-eu-ambition-sep17

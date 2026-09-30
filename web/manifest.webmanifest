@@ -1,0 +1,25 @@
+{
+  "name": "GovTech Verkenner | Digicampus",
+  "short_name": "GovTech",
+  "description": "Vind oplossingen, organisaties en samenwerkingen voor publieke digitale vraagstukken.",
+  "lang": "nl",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#faf9fc",
+  "theme_color": "#2a235c",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#2A235C">
+  <meta name="description" content="Ontdek het GovTech-ecosysteem. Organisaties, locaties en onderbouwde verbindingen, in Nederland, Europa en Canada.">
+  <title>GovTech Verkenner | Digicampus</title>
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="stylesheet" href="/vendor/leaflet.css">
+  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="/atlas.css?v=20260925-brand1">
+  <link rel="stylesheet" href="/brand.css?v=20260925-brand1">
+  <script defer src="/vendor/d3.min.js"></script>
+  <script defer src="/vendor/leaflet.js"></script>
+  <script type="module" src="/app.js?v=20260925-brand1"></script>
+</head>
+<body>
+  <a class="skip" href="#explorer">Naar de verkenner</a>
+  <header class="masthead">
+    <a class="brand" href="/" aria-label="GovTech Verkenner start"><img class="digicampus-logo" src="/brand/digicampus-logo.svg" alt="DigiCampus" width="220" height="22"><span class="atlas-product">GovTech Verkenner</span></a>
+    <div class="header-context"><span class="live-dot"></span>Een ecosysteem in verbinding</div>
+    <div class="header-actions"><a class="discovery-navigation" id="discovery-return" href="/">← Verkenner</a><button class="text-button" id="about">Over de data</button><button id="display-mode" class="outline">Schermmodus <span aria-hidden="true">↗</span></button><span class="digicampus">digi<span>campus</span><small>publieke innovatie</small></span></div>
+  </header>
+  <main>
+    <section class="intro">
+      <div><p class="eyebrow">SAMEN DIGITAAL VOORUIT</p><h1>Het GovTech-landschap in kaart</h1><p class="atlas-subtitle">Verken Nederland, Europa en Canada.</p></div>
+      <span class="atlas-edition">VERKENNING · IN ONTWIKKELING</span>
+    </section>
+    <section class="stats" aria-label="Binnen de huidige selectie">
+      <div><strong id="stat-orgs">–</strong><span>organisaties in beeld</span></div>
+      <div><strong id="stat-relations">–</strong><span>inhoudelijke verbindingen</span></div>
+      <div><strong id="stat-locations">–</strong><span>organisaties met locatie</span></div>
+      <div class="stats-note"><span class="mini-label">ELKE LIJN HEEFT EEN VERHAAL</span><p>En elk verhaal heeft een bron.<br>Zo lees je deze verkenner</p></div>
+    </section>
+    <section id="explorer" class="explorer" aria-label="GovTech ecosysteem verkennen">
+      <div class="explorer-top"><div class="tabs" role="tablist" aria-label="Weergave"><button id="tab-map" role="tab" aria-selected="true" aria-controls="map-view" data-view="map">Kaart</button><button id="tab-network" role="tab" aria-selected="false" aria-controls="network-view" data-view="network">Verbindingen</button><button id="tab-directory" role="tab" aria-selected="false" aria-controls="directory-view" data-view="directory">Organisaties</button></div><div class="scope-wrap"><label for="scope">Verken</label><select id="scope"><option value="nl">Nederland</option><option value="zh">Zuid-Holland</option><option value="eu">Europa</option><option value="ca">Canada</option><option value="all">Alle landen</option><option value="tht" hidden>The Hague Tech & partners</option><option value="hague" hidden>Den Haag</option></select></div></div>
+      <div id="atlas-search-feedback" class="data-note" role="status" hidden>Geen match binnen deze filters. Probeer een andere zoekterm of verruim het gebied.<div id="atlas-search-suggestions"></div></div><div class="filters"><p class="filter-heading">Verfijn je verkenning</p><label class="location-toggle"><input id="show-locations" type="checkbox" checked> Organisaties op de kaart</label><label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Zoek organisatie of thema" autocomplete="off" aria-label="Zoek organisaties"><kbd>/</kbd></label><select id="kind" aria-label="Type organisatie"><option value="">Alle typen</option><option value="company">Techbedrijven</option><option value="government">Overheid</option><option value="hub">Hubs</option><option value="knowledge">Kennis</option><option value="support">Netwerken & ondersteuning</option><option value="bigtech">Big Tech</option></select><select id="country" aria-label="Land" hidden><option value="">Alle landen</option></select><select id="theme" aria-label="Thema"><option value="">Alle thema's</option></select><button id="reset" class="text-button">Herstel</button></div>
+      <div class="workspace">
+        <div class="canvas-column">
+          <div class="layerbar"><div><label><input id="community" type="checkbox" checked> Communitylijnen</label><label><input id="historical" type="checkbox" checked> Historische bronnen</label></div><span id="result-label" role="status" aria-live="polite">Data laden...</span></div>
+          <div id="network-view" class="view network-view" role="tabpanel" aria-labelledby="tab-network"><div class="canvas-heading"><p class="eyebrow light">HET NETWERK ACHTER GOVTECH</p><h2 id="graph-title">Dichtbij begint het.</h2></div><svg id="network" tabindex="0" role="group" aria-label="Interactief organisatienetwerk. Gebruik Tab en Enter om organisaties te openen."><title>Onderbouwde relaties tussen organisaties</title></svg><div class="graph-empty" id="empty" hidden>Geen organisaties gevonden.<button id="empty-reset">Wis de filters</button></div><div class="graph-controls"><button id="zoom-in" aria-label="Netwerk inzoomen">+</button><button id="zoom-out" aria-label="Netwerk uitzoomen">−</button><button id="readable" aria-label="Netwerk op leesafstand" title="Terug naar leesafstand rond de gekozen organisatie">Leesbaar</button><button id="fit" aria-label="Overzicht van hele selectie" title="Zoom uit om alle organisaties te zien">Overzicht</button><span id="graph-zoom" aria-label="Zoomniveau">100%</span></div><div class="graph-hint">Meer organisaties buiten beeld<br><span>Sleep of gebruik pijltjestoetsen · knijp om te zoomen</span></div><div class="graph-stamp" id="graph-stamp">NEDERLAND<br><span>RELATIES · GEEN KAARTPOSITIES</span></div></div>
+          <div id="map-view" class="view map-view" role="tabpanel" aria-labelledby="tab-map" hidden><div id="map" aria-label="Geografische kaart"></div><div id="map-message" class="map-message"></div><button id="map-fit" class="map-fit">Gebied in beeld</button><button id="map-whole-country" class="map-fit map-whole-country" hidden>Heel Canada</button></div>
+          <div id="directory-view" class="view directory-view" role="tabpanel" aria-labelledby="tab-directory" hidden><div class="directory-heading"><h2>De mensen achter de technologie.</h2><p>Organisaties met bronvermelding. Ook vindbaar zonder kaart.</p></div><div id="directory"></div></div>
+          <div class="legend" id="legend"><span><i class="dot company"></i>Techbedrijf</span><span><i class="dot government"></i>Overheid</span><span><i class="dot hub"></i>Hub</span><span><i class="dot knowledge"></i>Kennis</span><span><i class="dot support"></i>Ondersteuning</span><span><i class="dot bigtech"></i>Big Tech</span></div>
+          <p class="canvas-note" id="canvas-note">Posities in het netwerk zijn niet geografisch. Stippellijnen = community, niet automatisch samenwerking.</p>
+        </div>
+        <aside id="detail" class="detail" aria-label="Organisatie en broninformatie" tabindex="-1"></aside>
+      </div>
+      <div class="explorer-footer"><span id="connection-status">Gepubliceerde onderzoekseditie · alleen lezen</span><div><button id="export-selection" class="text-button">Selectie als CSV <span aria-hidden="true">↓</span></button><a id="export-full" href="/data/ecosystem.json" download>Database + bewijs <span aria-hidden="true">↓</span></a></div></div>
+    </section>
+    <footer class="page-footer"><p><strong>Gebouwd op publieke kennis.</strong><br>Digicampus · The Hague Tech · KvK · PUBLIC · EU GovTech Atlas</p><p>Een verkenning, geen keurmerk.<br>Ontbrekende verbindingen betekenen niet dat er geen samenwerking is.</p><button class="inline-link" id="method-link">Zo lees je deze verkenner <span aria-hidden="true">↗</span></button><p class="authorship">Ontwikkeld door Tjebbe Boersma, met ondersteuning van OpenAI Codex, voor DigiCampus</p></footer>
+  </main>
+  <dialog id="about-dialog" aria-labelledby="about-title"><button id="close-about" class="dialog-close" aria-label="Sluit uitleg">×</button><p class="eyebrow">TRANSPARANT VAN BRON TOT VERBINDING</p><h2 id="about-title">Wat deze kaart wel<br>en niet vertelt.</h2><p class="authorship">Ontwikkeld door Tjebbe Boersma, met ondersteuning van OpenAI Codex, voor DigiCampus</p><div id="method-content"></div></dialog>
+  <noscript>JavaScript is nodig voor de interactieve verkenner. De database is beschikbaar via <a href="/data/organisations.csv">CSV-export</a>.</noscript>
+</body>
+</html>

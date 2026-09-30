@@ -1,0 +1,45 @@
+/* Atlas shell: Digi Campus website colours, existing bundled font fallbacks. */
+:root{--paper:#f5fafa;--ink:#2a235c;--muted:#657188;--line:#dce8e9;--forest:#2a235c;--green:#d4eeea;--mint:#007a72}
+body{background:var(--paper)}
+.masthead{height:76px;padding:0 32px;background:white;gap:24px}
+.brand{gap:24px}.atlas-wordmark{font-size:21px;letter-spacing:5px;color:#007a72;font-weight:700}.atlas-product{border-left:1px solid var(--line);padding-left:24px;font-size:17px}
+.header-context,.digicampus{display:none}.header-actions{gap:12px}.outline{border-color:var(--line)}
+main{max-width:1920px;padding:0 28px}.intro{display:flex;justify-content:space-between;padding:28px 4px 24px;gap:16px}.intro h1{font-size:34px;letter-spacing:-1px;line-height:1.2;font-weight:700}.intro .eyebrow{color:#007a72;margin-bottom:8px;font-size:9px}.atlas-subtitle{color:var(--muted);margin-top:8px}.atlas-edition{padding:8px 12px;background:#e6f0f0;border-radius:20px;color:#007a72;font-size:9px;letter-spacing:1px;white-space:nowrap}
+.stats{display:none}.explorer{margin:0;border:0;background:transparent;overflow:visible;display:grid;grid-template-columns:230px minmax(0,1fr);gap:14px;animation:none}
+.explorer-top{grid-column:1/-1;background:transparent;border:0;padding:0;align-items:center}.tabs{gap:8px}.tabs button{padding:10px 22px;border:1px solid var(--line);border-radius:7px;background:white;min-height:44px;font-size:13px}.tabs button[aria-selected=true]{background:#007a72;border-color:#007a72;color:white}.tabs #tab-map{order:-1}.scope-wrap{padding:0}.scope-wrap label{display:block}.scope-wrap select{min-width:210px;background-color:white;border:1px solid var(--line);color:#2a235c}
+.filters{grid-column:1;grid-row:2;display:flex;flex-direction:column;align-items:stretch;padding:20px 16px;background:white;border:1px solid var(--line);border-radius:9px;gap:16px}.filter-heading{font-weight:600;font-size:14px}.filters .search-box{flex:none;min-width:0;padding:0 9px}.search-box input{font-size:12px}.search-box kbd{display:none}.filters>select{width:100%;max-width:none;font-size:12px}.filters #reset{align-self:flex-start;color:#007a72}.filters:after{content:'Bronnen per organisatie. Een locatie of SBI-code is geen bewijs van digitale soevereiniteit.';font-size:11px;line-height:1.7;color:var(--muted);margin-top:auto;padding-top:28px}
+.workspace{grid-column:2;grid-row:2;position:relative;background:white;border:1px solid var(--line);border-radius:9px;overflow:hidden;grid-template-columns:minmax(0,1fr) 320px}.view{height:calc(100dvh - 340px);min-height:440px}.detail{background:white;max-height:calc(100dvh - 240px)}.detail .data-note{background:#eef5f5;color:#566677}.chip,.website,.welcome-note{background:#e6f0f0;color:#007a72}.evidence a{color:#007a72}
+body[data-view=map] .workspace{grid-template-columns:1fr}body[data-view=map] .detail.welcome{display:none}body[data-view=map] .detail:not(.welcome){position:absolute;right:0;top:0;bottom:0;width:340px;z-index:1001;box-shadow:-8px 0 25px #2a235c15}
+body[data-view=map] .layerbar,body[data-view=map] .legend{display:none}body[data-view=map] .view{height:calc(100dvh - 300px);min-height:470px}.map-view #map{background:#e6f0f0}.leaflet-tile-pane{filter:grayscale(.85) saturate(.5)}.map-message{background:#ffffffed;border:1px solid var(--line);color:#53647a;top:16px;font-size:11px}.map-fit{background:white;color:#007a72;border-color:var(--line);bottom:28px}.cluster-pin{background:#007a72;color:white;border:3px solid #d7efec;font:13px var(--heading);box-shadow:0 2px 7px #2a235c22}.leaflet-bar{border:1px solid var(--line)!important;box-shadow:0 2px 8px #2a235c15!important}.leaflet-bar a{color:#2a235c!important}.canvas-note{background:white;padding:12px 16px;font-size:10px}.layerbar{background:#f5fafa}.directory-view{background:white}.explorer-footer{grid-column:1/-1;background:transparent;border:0;padding:0 2px}.page-footer{padding:12px 2px 20px;color:var(--muted)}
+.display .explorer{height:auto;display:grid}.display .workspace{grid-template-columns:1fr}.display .filters{display:flex}.display .view{height:calc(100dvh - 220px);min-height:420px}.display .detail:not(.welcome){position:absolute;right:0;top:0;bottom:0;width:340px;z-index:1001}.display .detail.welcome{display:none}
+@media(max-width:1100px){.atlas-edition{display:none}.workspace{grid-template-columns:1fr}.detail.welcome{display:block}.detail{max-height:500px}.atlas-product{font-size:14px}.explorer{grid-template-columns:200px minmax(0,1fr)}.masthead{padding:0 24px}.intro h1{font-size:30px}}
+@media(max-width:700px){main{padding:0 12px}.masthead{padding:0 16px;height:68px}.atlas-wordmark{font-size:16px;letter-spacing:3px}.atlas-product{display:none}.header-actions #about{display:block;font-size:11px}.header-actions #display-mode{display:none}.intro{padding:22px 4px 18px}.intro h1{font-size:26px;letter-spacing:-.7px}.atlas-subtitle{font-size:12px}.explorer{display:flex;flex-direction:column;gap:10px}.explorer-top{display:flex;flex-direction:column;align-items:stretch;gap:10px}.tabs{justify-content:stretch}.tabs button{flex:1;padding:10px 8px;font-size:12px}.scope-wrap{display:flex;justify-content:space-between}.scope-wrap select{width:75%;min-width:0;font-size:13px}.filters{padding:10px;display:grid;grid-template-columns:1fr 1fr;gap:8px}.filter-heading,.filters:after{display:none}.filters .search-box{grid-column:1/-1}.filters>select{font-size:11px}.filters #reset{grid-column:1/-1;min-height:32px;padding:0;text-align:left}.workspace{display:block}.view,body[data-view=map] .view{height:58dvh;min-height:400px}.map-message{font-size:9px;left:61px;top:10px;padding:7px;max-width:calc(100% - 72px)}body[data-view=map] .detail:not(.welcome),.display .detail:not(.welcome){position:relative;width:100%;max-height:none;box-shadow:none;border-left:0}.detail.welcome{display:block}.explorer-footer{display:flex;padding:0 4px}.page-footer{font-size:9px}.display main{padding:0 12px}.display .explorer{display:flex;height:auto}.display .filters{display:grid}.display .view{height:58dvh;min-height:400px}}
+/* Keep the basemap quiet enough for the teal organisation layer. */
+.leaflet-tile-pane{filter:grayscale(1);opacity:.8}.map-view #map{background:#e6f0f0}
+
+.location-toggle{display:flex;align-items:center;gap:9px;font-size:12px;min-height:44px;color:#526579}.location-toggle input{accent-color:#007a72;width:16px;height:16px}.intro{animation:none}@media(max-width:700px){.location-toggle{grid-column:1/-1;order:5}}
+
+@media(max-width:700px){body[data-view=map] .location-toggle{min-height:32px}}
+
+.cluster-pin.community-pin{background:#2a235c;border-color:#e2dff1}.map-message{max-width:calc(100% - 90px)}
+
+.filters>select[hidden]{display:none}
+
+/* World-space network: labels stay readable; overview is an explicit choice. */
+.graph-node .node-label,.display .graph-node .node-label{font-size:14px}
+.graph-node .node-caption,.display .graph-node .node-caption{font-size:11px}
+.graph-controls{align-items:center;max-width:calc(100% - 36px)}
+.graph-controls button{min-width:44px;min-height:44px}
+.graph-controls #readable,.graph-controls #fit{width:auto;padding:0 12px;font-size:12px}
+#graph-zoom{min-width:46px;text-align:center;font-size:10px;color:#d2e5df;padding:0 6px}
+.graph-hint{left:24px;bottom:82px}
+.graph-node:focus-visible .node-ring{stroke:#fff;opacity:1;stroke-width:3px}
+@media(max-width:700px){.graph-controls{left:12px;bottom:14px}.graph-controls #readable,.graph-controls #fit{padding:0 9px;font-size:11px}.graph-hint{display:block;left:18px;bottom:68px;font-size:9px}.graph-hint span{display:none}}
+
+.network-jump{display:block;min-height:44px;margin:8px 0;color:var(--teal,#007a72)}
+
+.discovery-navigation{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;min-height:44px;padding:10px 14px;border:1px solid var(--line);border-radius:7px;color:#007a72;font-size:13px;white-space:nowrap}.discovery-navigation:hover{background:#e5f5ee}@media(max-width:700px){.header-actions{gap:8px}.discovery-navigation{font-size:12px;padding:9px 10px}.header-actions #about{display:none}}
+
+.discovery-profile-link{display:inline-flex;margin:6px 0 17px;padding:10px 12px;min-height:44px;align-items:center;border:1px solid #bdd9d4;border-radius:6px;color:#007a72;text-decoration:none;font-size:12px;font-weight:600}.discovery-profile-link:hover{background:#e5f5ee}
+
+.map-fit{min-height:44px}.map-whole-country{left:180px}

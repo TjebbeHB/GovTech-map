@@ -1,0 +1,17 @@
+Third-party assets are vendored for local operation; no runtime script/font CDN.
+
+D3 7.9.0: https://github.com/d3/d3 - ISC, Copyright 2010-2023 Mike Bostock.
+Leaflet 1.9.4: https://github.com/Leaflet/Leaflet - BSD-2-Clause, Copyright 2010-2023 Vladimir Agafonkin; Copyright 2010-2011 CloudMade.
+Space Grotesk: https://github.com/floriankarsten/space-grotesk - SIL Open Font License 1.1.
+IBM Plex Sans: https://github.com/IBM/plex - SIL Open Font License 1.1.
+Full licenses are retained beside this file.
+
+OpenStreetMap tiles are requested online, not bundled or precached.
+Attribution: https://www.openstreetmap.org/copyright
+Tile usage policy: https://operations.osmfoundation.org/policies/tiles/
+
+DM Sans: https://github.com/google/fonts/tree/main/ofl/dmsans - SIL Open Font License 1.1; see DM-Sans-LICENSE.
+Inter: https://github.com/google/fonts/tree/main/ofl/inter - SIL Open Font License 1.1; see Inter-LICENSE.
+Lexend: https://github.com/google/fonts/tree/main/ofl/lexend - SIL Open Font License 1.1; see Lexend-LICENSE.
+
+DigiCampus logo: sourced unchanged from https://digicampus.tech/wp-content/uploads/2025/12/logo-digicampus-light.svg on 2026-09-25. Separate brand asset; no open-source license asserted. See docs/BRAND-ASSETS.md in the source project.
